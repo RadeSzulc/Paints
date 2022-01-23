@@ -47,8 +47,13 @@ To do:
 
 
 ## Contact
-Created by [@RadeSzulc](https://github.com/RadeSzulc) - feel free to contact me!
-Created by [@KarolS22](https://github.com/KarolS22) - feel free to contact me!
+Created by: 
+
+[@RadeSzulc](https://github.com/RadeSzulc) 
+
+[@KarolS22](https://github.com/KarolS22) 
+
+Feel free to contact us!
 
 
 
