@@ -1,5 +1,5 @@
 # Paints
-> Paints API
+> Paints API - application that manages paints warehouse
 
 
 ## Table of Contents
@@ -38,7 +38,7 @@ Project is: _complete_
 
 
 Room for improvement:
-- 
+- Front-End
 - 
 
 To do:
