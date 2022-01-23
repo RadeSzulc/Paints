@@ -17,7 +17,7 @@
 
 
 ## Technologies Used
-- js
+- JavaScript
 - JSON
 
 
